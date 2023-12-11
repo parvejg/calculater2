@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Calculater } from "./Components/CalculaterPage";
 
